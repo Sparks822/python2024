@@ -1,3 +1,3 @@
 
 name = "Arnold"
-print(type(name))
+print("variable 'name' datatype is  : ",type(name))
