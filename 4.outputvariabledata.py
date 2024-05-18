@@ -1,5 +1,2 @@
-name = "Arnold"
-
-print("Hello " + name) 
-
-#output data from variable.
+name = "Arnold" # <- variable
+print("name is " +  name )
