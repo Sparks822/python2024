@@ -5,4 +5,3 @@ name = input("Please enter your name: ")
 print("Hello, " + name + "!")
 
 
-print("datatype of name variable: "type(name))
